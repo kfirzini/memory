@@ -27,6 +27,8 @@
   - **O:** black-and-white soccer ball
 
 ![Zidane headbutt](images/01_zidane.png)
+ 
+ - ** סטן **
 
 ---
 
@@ -108,6 +110,8 @@
 
 ![Sacha Baron Cohen](images/06_sacha_baron_cohen.png)
 
+- ** סאשה גרי **
+  
 ---
 
 ## 07
