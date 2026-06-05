@@ -1,40 +1,9 @@
-# 00–09 Person Options — Two Systems
-
-## Encoding Keys
-
-| Digit | Major EN | Major HE-A (Phonetic) | Major HE-B (Direct) |
-|-------|----------|-----------------------|---------------------|
-| 0 | S / Z | ס / ז | ס / ז / צ |
-| 1 | T / D | ל | ת / ט / ד |
-| 2 | N | ב / נ | נ |
-| 3 | M | ג / ק / כ (hard) | מ |
-| 4 | R | ד / ת / ט | ר |
-| 5 | L | ח / כ (soft) / ה | ל |
-| 6 | J / SH / CH | ש | ש / צ׳ / ג׳ / ז׳ |
-| 7 | K / hard-G | ר | ק / כּ / ג-hard |
-| 8 | F / V | מ | פ-רפה / ו / ב-רפה |
-| 9 | P / B | פ | פ-דגושה / ב-דגושה |
-
-**Major EN** = first two major consonant sounds of the name  
-**Major HE** = same rule, using the Hebrew phonetic map above
-
-Hebrew map expansions applied:
-- **ז = 0** alongside ס (Z is the voiced twin of S, same as English S/Z = 0)
-- **נ = 2** alongside ב (adds N-sound names to slot 2)
-- **ת / ט = 4** alongside ד (T and D are natural pairs, like English Major T/D = 1)
-- **ה = 5** alongside ח/כ-soft (same H-breath family; ה is far more common in Hebrew names)
-
----
-
 ## 00
 
 ### Major English (S + S)
 - **Sammy Sosa** — **S**ammy **S**osa → S+S = 00 ✓ | baseball slugger, corked bat scandal, chest-kiss salute
 - **Julius Caesar** — **C**ae**s**ar → S+Z = 00 ✓ | (soft C=S) toga, Ides of March, "Et tu, Brute?"
 - **Sasquatch** — **S**a**s**quatch → S+S = 00 ✓ | blurry Bigfoot footage, huge hairy footprints
-
-### Major Hebrew (ס/ז + ס/ז)
-- **זוס** (Zeus) — **ז**ו**ס** → ז+ס = 00 ✓ | king of the gods, thunderbolt, shape-shifting seducer *(Expansion A)*
 
 ### Major Hebrew-B (ס/ז/צ + ס/ז/צ)
 - **זוס** (Zeus) — **ז**ו**ס** → ז+ס = 00 ✓ | same as HE-A; ז=0, ס=0
@@ -64,11 +33,10 @@ Hebrew map expansions applied:
 - **זלמן** (Zalman) — **ז**ל → ז+ל = 01 ✓ | archetypal wise rabbi, long beard, ancient books *(Expansion A)*
 
 ### Major Hebrew-B (ס/ז/צ + ת/ט/ד)
-*(HE-B: 1 = ת/ט/ד; these were in HE-A slot 04)*
-- **סטלון** (Sylvester Stallone) — **ס**ט → ס+ט = 01 ✓ | Rocky's fists, Rambo headband *(⚠️ HE-A = 04)*
-- **סידהרתא** (Siddhartha/Buddha) — **ס**ד → ס+ד = 01 ✓ | lotus position, Bodhi tree *(⚠️ HE-A = 04)*
-- **סידני** (Sidney Crosby / Sidney Poitier) — **ס**ד → ס+ד = 01 ✓ | hockey legend OR dignified Hollywood icon *(⚠️ HE-A = 04)*
-- **זידאן** (Zinedine Zidane) — **ז**ד → ז+ד = 01 ✓ | soccer GOAT, headbutt in 2006 World Cup final *(⚠️ HE-A = 04)*
+- **סטלון** (Sylvester Stallone) — **ס**ט → ס+ט = 01 ✓ | Rocky's fists, Rambo headband 
+- **סידהרתא** (Siddhartha/Buddha) — **ס**ד → ס+ד = 01 ✓ | lotus position, Bodhi tree 
+- **סידני** (Sidney Crosby / Sidney Poitier) — **ס**ד → ס+ד = 01 ✓ | hockey legend OR dignified Hollywood icon 
+- **זידאן** (Zinedine Zidane) — **ז**ד → ז+ד = 01 ✓ | soccer GOAT, headbutt in 2006 World Cup final 
 
 ---
 
@@ -110,11 +78,11 @@ Hebrew map expansions applied:
 
 ### Major Hebrew-B (ס/ז/צ + מ)
 *(HE-B: 3 = מ; these were in HE-A slot 08)*
-- **סימבה** (Simba) — **ס**מ → ס+מ = 03 ✓ | Lion King, Pride Rock roar *(⚠️ HE-A = 08)*
-- **סמורף** (Smurf) — **ס**מ → ס+מ = 03 ✓ | tiny blue creatures, mushroom village *(⚠️ HE-A = 08)*
-- **סמואל ל. ג'קסון** (Samuel L. Jackson) — **ס**מ → ס+מ = 03 ✓ | "Say what again!", purple lightsaber *(⚠️ HE-A = 08; matches EN slot 03)*
-- **סמי** (Sammy Davis Jr.) — **ס**מ → ס+מ = 03 ✓ | Rat Pack, glass eye, tap dancing *(⚠️ HE-A = 08)*
-- **סמנתה** (Samantha) — **ס**מ → ס+מ = 03 ✓ | Bewitched nose-twitch / SATC *(⚠️ HE-A = 08)*
+- **סימבה** (Simba) — **ס**מ → ס+מ = 03 ✓ | Lion King, Pride Rock roar 
+- **סמורף** (Smurf) — **ס**מ → ס+מ = 03 ✓ | tiny blue creatures, mushroom village 
+- **סמואל ל. ג'קסון** (Samuel L. Jackson) — **ס**מ → ס+מ = 03 ✓ | "Say what again!", purple lightsaber slot 03)*
+- **סמי** (Sammy Davis Jr.) — **ס**מ → ס+מ = 03 ✓ | Rat Pack, glass eye, tap dancing 
+- **סמנתה** (Samantha) — **ס**מ → ס+מ = 03 ✓ | Bewitched nose-twitch / SATC 
 
 ---
 
@@ -134,10 +102,10 @@ Hebrew map expansions applied:
 
 ### Major Hebrew-B (ס/ז/צ + ר)
 *(HE-B: 4 = ר; these were in HE-A slot 07)*
-- **סורוס** (George Soros) — **ס**ר → ס+ר = 04 ✓ | grey-suit billionaire, open-society architect *(⚠️ HE-A = 07)*
-- **סרגיי** (Sergei — Prokofiev / Fedorov) — **ס**ר → ס+ר = 04 ✓ | composer or hockey legend *(⚠️ HE-A = 07)*
-- **זורו** (Zorro) — **ז**ר → ז+ר = 04 ✓ | masked hero, black outfit, Z slashed everywhere *(⚠️ HE-A = 07)*
-- **זרובבל** (Zerubbabel) — **ז**ר → ז+ר = 04 ✓ | led exiles back from Babylon, rebuilt the Temple *(⚠️ HE-A = 07)*
+- **סורוס** (George Soros) — **ס**ר → ס+ר = 04 ✓ | grey-suit billionaire, open-society architect 
+- **סרגיי** (Sergei — Prokofiev / Fedorov) — **ס**ר → ס+ר = 04 ✓ | composer or hockey legend 
+- **זורו** (Zorro) — **ז**ר → ז+ר = 04 ✓ | masked hero, black outfit, Z slashed everywhere 
+- **זרובבל** (Zerubbabel) — **ז**ר → ז+ר = 04 ✓ | led exiles back from Babylon, rebuilt the Temple 
 
 ---
 
@@ -172,15 +140,15 @@ Hebrew map expansions applied:
 
 ### Major Hebrew-B (ס/ז/צ + ל)
 *(HE-B: 5 = ל; these were in HE-A slot 01)*
-- **סלמה האייק** (Salma Hayek) — **ס**ל → ס+ל = 05 ✓ | Mexican actress, Frida Kahlo role, fierce *(⚠️ HE-A = 01)*
-- **סילבסטר החתול** (Sylvester the Cat) — **ס**ל → ס+ל = 05 ✓ | forever chasing Tweety *(⚠️ HE-A = 01)*
-- **סלין דיון** (Celine Dion) — **ס**ל → ס+ל = 05 ✓ | arms outstretched, Titanic theme blasting *(⚠️ HE-A = 01)*
-- **סלבדור דאלי** (Salvador Dalí) — **ס**ל → ס+ל = 05 ✓ | melting clocks, insane moustache *(⚠️ HE-A = 01)*
-- **סולטן** (Sultan) — **ס**ל → ס+ל = 05 ✓ | robes, throne, harem, opulent palace *(⚠️ HE-A = 01)*
-- **זלדה** (Zelda) — **ז**ל → ז+ל = 05 ✓ | Legend of Zelda, Triforce of Wisdom *(⚠️ HE-A = 01)*
-- **זלמן** (Zalman) — **ז**ל → ז+ל = 05 ✓ | archetypal wise rabbi, long beard *(⚠️ HE-A = 01)*
-- **זלטן איברהימוביץ'** (Zlatan) — **ז**ל → ז+ל = 05 ✓ | arrogant Swedish striker, impossible bicycle kicks *(⚠️ HE-A = 01)*
-- **סול גודמן** (Saul Goodman) — **ס**ל → ס+ל = 05 ✓ | shady lawyer, flashy suits, "Better Call Saul" *(⚠️ HE-A = 01)*
+- **סלמה האייק** (Salma Hayek) — **ס**ל → ס+ל = 05 ✓ | Mexican actress, Frida Kahlo role, fierce 
+- **סילבסטר החתול** (Sylvester the Cat) — **ס**ל → ס+ל = 05 ✓ | forever chasing Tweety 
+- **סלין דיון** (Celine Dion) — **ס**ל → ס+ל = 05 ✓ | arms outstretched, Titanic theme blasting 
+- **סלבדור דאלי** (Salvador Dalí) — **ס**ל → ס+ל = 05 ✓ | melting clocks, insane moustache 
+- **סולטן** (Sultan) — **ס**ל → ס+ל = 05 ✓ | robes, throne, harem, opulent palace 
+- **זלדה** (Zelda) — **ז**ל → ז+ל = 05 ✓ | Legend of Zelda, Triforce of Wisdom 
+- **זלמן** (Zalman) — **ז**ל → ז+ל = 05 ✓ | archetypal wise rabbi, long beard 
+- **זלטן איברהימוביץ'** (Zlatan) — **ז**ל → ז+ל = 05 ✓ | arrogant Swedish striker, impossible bicycle kicks 
+- **סול גודמן** (Saul Goodman) — **ס**ל → ס+ל = 05 ✓ | shady lawyer, flashy suits, "Better Call Saul" 
 
 ---
 
@@ -213,11 +181,11 @@ Hebrew map expansions applied:
 
 ### Major Hebrew-B (ס/ז/צ + ק/כּ/ג-hard)
 *(HE-B: 7 = ק/כ-hard/ג-hard; these were in HE-A slot 03)*
-- **סוקרטס** (Socrates) — **ס**ק → ס+ק = 07 ✓ | barefoot philosopher, hemlock, Socratic method *(⚠️ HE-A = 03)*
-- **סקארלט** (Scarlett O'Hara) — **ס**ק → ס+ק = 07 ✓ | southern belle, "As God is my witness…" *(⚠️ HE-A = 03)*
-- **סקוטי** (Scotty, Star Trek) — **ס**ק → ס+ק = 07 ✓ | "Beam me up, Scotty!" *(⚠️ HE-A = 03)*
-- **סקוביידו** (Scooby-Doo) — **ס**ק → ס+ק = 07 ✓ | cowardly Great Dane, Scooby Snacks *(⚠️ HE-A = 03)*
-- **סקאר** (Scar) — **ס**ק → ס+ק = 07 ✓ | jealous lion uncle, planned Mufasa's death *(⚠️ HE-A = 03)*
+- **סוקרטס** (Socrates) — **ס**ק → ס+ק = 07 ✓ | barefoot philosopher, hemlock, Socratic method 
+- **סקארלט** (Scarlett O'Hara) — **ס**ק → ס+ק = 07 ✓ | southern belle, "As God is my witness…" 
+- **סקוטי** (Scotty, Star Trek) — **ס**ק → ס+ק = 07 ✓ | "Beam me up, Scotty!" 
+- **סקוביידו** (Scooby-Doo) — **ס**ק → ס+ק = 07 ✓ | cowardly Great Dane, Scooby Snacks 
+- **סקאר** (Scar) — **ס**ק → ס+ק = 07 ✓ | jealous lion uncle, planned Mufasa's death 
 
 ---
 
